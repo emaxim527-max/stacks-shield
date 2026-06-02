@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/logo.svg" width="140"/>
+</p>
+
+# 🛡 StacksShield Security IDE
 # 🛡 StacksShield Security IDE
 
 AI-powered smart contract security IDE for Clarity contracts.
