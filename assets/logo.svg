@@ -1,0 +1,23 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <circle cx="110" cy="110" r="100" fill="#0B1220"/>
+
+  <path d="M110 25L170 55V110C170 150 140 180 110 195C80 180 50 150 50 110V55L110 25Z"
+        fill="#0F172A"
+        stroke="#22C55E"
+        stroke-width="4"/>
+
+  <path d="M110 40L155 62V108C155 140 132 164 110 176C88 164 65 140 65 108V62L110 40Z"
+        fill="#111827"
+        opacity="0.9"/>
+
+  <path d="M140 85C140 70 125 60 110 60C95 60 80 70 80 85C80 100 95 105 110 110C125 115 140 120 140 135C140 150 125 160 110 160C92 160 80 150 80 135"
+        stroke="#22C55E"
+        stroke-width="10"
+        stroke-linecap="round"/>
+
+  <circle cx="70" cy="95" r="4" fill="#22C55E"/>
+  <circle cx="150" cy="95" r="4" fill="#22C55E"/>
+  <circle cx="110" cy="150" r="4" fill="#22C55E"/>
+
+</svg>
